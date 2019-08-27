@@ -1,0 +1,20 @@
+
+public class Basic1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// print
+			System.out.println("Started learning JAVA");
+
+		// add 2 numbers
+			int C= 2+2;
+			int a=2;
+			int b=5;
+			C=C+a+b;
+			System.out.println("Sum is "+C);
+			
+		// header validation
+	}
+
+}

@@ -1,0 +1,9 @@
+
+public class Methods {
+
+	public void ValidateHeader() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Header");
+	}
+
+}
